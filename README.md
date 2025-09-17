@@ -1,7 +1,7 @@
 # aseSlab 0.1
 
 
-###### Official page: kidmarscat.itch.io/aseslab
+###### Official page: [kidmarscat.itch.io/aseslab](https://kidmarscat.itch.io/aseslab)
 
 **Important: Since aseSlab has made enough money now to cover for the price of Aseprite — a sincerely bloated, broken, and incompetent piece of software as it still is — I feel free now to release the project as pay-what-you-want AND as Unlicense/CC0, that is, the code now is in the public domain, and everyone is free to use it, reuse it, improve it, and share it. Maybe if the Aseprite devs stop making stupid plushies, and sit down and actually add features that people obviously want (this was a hit beyond even my expectation), this script could be one of them. Otherwise, thank you to to everyone who purchased it. Fuck Aseprite. Peace.**
 
