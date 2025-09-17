@@ -53,6 +53,8 @@ In case of a bug, or any other kind of unintentional behavior, feel free to cont
 ### On a final note...
 Developing scripts for Aseprite has mostly been a thankless effort, especially due to the total lack of support from the Aseprite developers in maintaining the API and fixing bugs that affect all script developers. In an ideal world, these kind of features would be available already — the existence of this script proves how easy it would be to implement them, if anyone gave a crap.
 
+This was originally released as a paid download, but now it's free, because fuck it.
+
 Do know that, in the end, it's less about the money than it is about making a point, with the hopes that one day this project is made obsolete by Aseprite itself. Edit: And I made my point fuck you David Capello you hack lmao.
 
 ### ChangeLog

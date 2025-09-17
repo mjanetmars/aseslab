@@ -114,25 +114,14 @@ or leave a comment on the aseSlab download page,
     kidmarscat.itch.io/aseslab
 
 : On a final note...
-I've only ever released my scripts for free online, but this project took me the
- better part of a month, taking time away from more lucrative endeavors I could 
-have done instead. And I could have kept it as an internal tool like some other 
-scripts I've developed, except I'm hoping that, by releasing the project online,
- it may result in Aseprite itself implementing these features out-of-the-box for
- all users, or perhaps even helping to directly interface between Aseprite and 
-any of the popular voxel programs available today.
 
-Developing scripts for Aseprite has mostly been a thankless effort, especially 
+Developing scripts for Aseprite has mostly been a thankless effort, especially
 due to the total lack of support from the Aseprite developers in maintaining the
- API and fixing bugs that affect all script developers. In an ideal world, these
- kind of features would be available already — the existence of this script 
+API and fixing bugs that affect all script developers. In an ideal world, these
+kind of features would be available already — the existence of this script
 proves how easy it would be to implement them, if anyone gave a crap.
 
-Until this happens, I'm choosing to release this as a paid download, to get 
-something back for all the time and effort invested on a project like this, 
-1000+ lines of code and all. If you choose to buy it, feel free to share it 
-around with friends, but please don't let it go any further than that, if you 
-can.
+This was originally released as a paid download, but now it's free, because fuck it.
 
 Do know that, in the end, it's less about the money than it is about making a 
 point, with the hopes that one day this project is made obsolete by Aseprite 
